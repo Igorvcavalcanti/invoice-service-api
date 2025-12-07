@@ -1,10 +1,10 @@
-📄 Invoice Service API
+## 📄 Invoice Service API
 
 API REST para gerenciamento de clientes, sessões de serviço e geração de invoices semanais, ideal para profissionais autônomos como cleaners, gardeners, handymen, etc., que trabalham por hora e recebem semanalmente.
 
 Este projeto permite cadastrar clientes, registrar horas trabalhadas, gerar invoices automaticamente e atualizar o status do pagamento.
 
-🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 Java 17
 
